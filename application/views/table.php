@@ -38,9 +38,9 @@
     <!-- Logo -->
     <a href="#" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>TO</b>k</span>
+      <span class="logo-mini"><b>AT</b>v</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>TokoOnline</b>ku</span>
+      <span class="logo-lg"><b>AcengTra</b>vel</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">
@@ -358,7 +358,7 @@
         <small>bentuk tabel</small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-dashboard"></i> TokoOnlineku</a></li>
+        <li><a href="#"><i class="fa fa-dashboard"></i> AcengTravel</a></li>
         <li><a href="#">User</a></li>
         <li class="active">Data User</li>
       </ol>
@@ -433,7 +433,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 2.4.0
     </div>
-     <strong>Copyright &copy; 2017-2018 <a href="#">by Fajar</a>.</strong> All rights
+     <strong>Copyright &copy; 2017-2018 <a href="#">by Aceng</a>.</strong> All rights
     reserved.
   </footer>
 
